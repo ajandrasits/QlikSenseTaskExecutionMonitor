@@ -9,4 +9,6 @@ https://msdn.microsoft.com/en-us/library/sd8zc8ha(v=vs.110).aspx
 
 # Start Service via Windows Services Console (services.msc)
 
+![Alt text](/img/2016-12-27_2021.png?raw=true "Services")
+
 This was implemented and tested for Qlik Sense 3.1.1
