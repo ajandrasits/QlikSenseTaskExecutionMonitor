@@ -1,6 +1,10 @@
 # QlikSenseTaskExecutionMonitor
 A simple Windows service that monitors the task execution log file of the Qlik Sense Scheduler Service
 
+# Configuration via App.config
+
+![Alt text](/img/2016-12-27_2057.png?raw=true "App.config")
+
 Can be installed as a Windows Service by using installutil.exe from your .NET Framework folder.
 e.g. C:\Windows\Microsoft.NET\Framework\v4.0.30319\InstallUtil.exe
 
